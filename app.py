@@ -120,6 +120,8 @@ for i in range(num_images):
 plt.tight_layout()
 plt.show()
 
+### On teste le modèle sur nos images ###
+
 import os
 from PIL import Image
 
